@@ -1,8 +1,7 @@
-AAA
-Aaa
-aaa
+DDD
+Ddd
+ddd
 BBB
 Bbb
-CC
-CCC
+FFF
 the quick brown fox jumps over the lazy dog
